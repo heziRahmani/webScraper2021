@@ -5,7 +5,7 @@ const express=require("express")
 
 
 
-const app=express()//gives the option to use all the express functoins
+const app=express()
 
 
 const url='https://www.ynet.co.il/home/0,7340,L-8,00.html'
